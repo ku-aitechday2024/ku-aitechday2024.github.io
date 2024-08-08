@@ -24,7 +24,7 @@ const Title = () => {
       <Box sx={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column' }} mt={10}>
         <Typography variant={matches ? 'subtitle2' : 'h5'}>고려대학교 ICT명품인재양성사업단&nbsp;</Typography>
         <Typography variant={'h2'} sx={{ fontWeight: 900, marginBottom: theme.spacing(2) }}>
-          2023 AI TECH DAY
+          2024 AI TECH DAY
         </Typography>
       </Box>
       <Box mt={2}>

@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <Box display={'flex'} flexDirection={'column'} justifyContent={'center'} alignItems={'center'}>
       <Helmet>
-        <title>AI TECH DAY 2023</title>
+        <title>AI TECH DAY 2024</title>
       </Helmet>
       <Box height={matches ? '100%' : '95vh'}>
         <Grid container width={'100vw'} height={'100%'}>
