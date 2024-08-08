@@ -1,5 +1,6 @@
 {
-  "name": "ku-aitechday2023.github.io",
+  "home": "https://ku-aitechday2024.github.io",
+  "name": "ku-aitechday2024.github.io",
   "private": true,
   "version": "1.0.3",
   "type": "module",
@@ -10,7 +11,8 @@
     "lint:fix": "eslint --fix",
     "prettier": "prettier '**/*.{js,jsx,ts,tsx,json,yaml,md}' --check",
     "prettier:fix": "prettier '**/*.{js,jsx,ts,tsx,json,yaml,md}' --write",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -37,6 +39,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "eslint-plugin-tsdoc": "^0.2.17",
+    "gh-pages": "^6.1.1",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2",
     "vite": "^4.4.5",

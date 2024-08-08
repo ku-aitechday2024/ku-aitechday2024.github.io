@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 import tsconfigPaths from 'vite-tsconfig-paths'
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://ku-aitechday2023.github.io/',
+  base: 'https://ku-aitechday2024.github.io/',
   plugins: [react(), tsconfigPaths()]
 })
