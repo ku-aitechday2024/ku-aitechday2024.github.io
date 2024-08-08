@@ -33,7 +33,7 @@ const Title = () => {
             <LinkTypography>
               <CalendarTodayIcon color="inherit" fontSize="small" />
               <Typography variant={matches ? 'body2' : 'body1'} ml={1} fontWeight={'regular'} color="inherit">
-                2023.11.22 (수) 10:00 ~ 18:20
+                2024.10.18(금) 10:00 ~ 18:20
               </Typography>
             </LinkTypography>
           </Link>
